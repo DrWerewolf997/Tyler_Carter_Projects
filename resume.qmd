@@ -1,86 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tyler Carter's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tyler Carter
+Student, Eagle Scout, Former Missionary.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/tyler-carter-b76994272/">Linkedin</a>
+| <a href="https://www.facebook.com/tyler.carter.351104/">Facebook</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Acounting with a cluster in Data Science. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Customer Relations, both forms of passive and active descalation. 
+Excel Manupilulation, by formulating cells and creating macros. 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Small Business Accounting, Contract Law, and Aquisations.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Highschool Years`
+__Huntingtown High__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`First Year College`
+__Maryland Community College, Prince Frederick MD__
 
-- Sizar
+- Just Generals
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2019 - Current`
+__BYUI, Rexburg ID__
 
-- Fellow
+- Major Accounting with a cluster in Data Science.
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2015`
+Eagle Scout, *Boy Scout of America*, Huntingtown, MD
 
-Associate, *French Academy of Science*, Paris, France
+Scholar Award, *Huntingtown High*, Huntingtown, MD
+
+`2020-2024`
+Numerous Employee of the Week, *Silverwood* It’s their version of the employee of the month.
 
 
 
-## Publications
+## Projects
+
+`I-Survive, An App`
+An app made during the Hackathon I helped contribute with a team. This app connects survivors, life coaches, and friends in a group chat by matching by similarities.
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2016-2018`
+Served a mission for the Church of Jesus Chirst of Latter-day Saints in Riverside CA. I served in a variety of leadership opportunities over the course of the two years. From organizing church events, acting as an official representative of the Church, and filling out official reports on a weekly and monthly basis. 
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+`1.18 Years`
+__Cashier__, My Giant
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+`6 Months`
+__Cashier__, Dollar Tree
+
+`4 Years`
+__Guest Servicies__, Silverwood Themepark
+
+`2 Years`
+__Security Officer__, Silverwood Themepark / Scarywood
 
 
 
